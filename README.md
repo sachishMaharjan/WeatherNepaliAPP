@@ -1,3 +1,3 @@
 # How to start server
-node app.js
+node app.js or nodemon app.js(better this)
 
